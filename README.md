@@ -11,9 +11,8 @@ Statistics at The University of Wisconsin- Madison👩🏻‍💻
 
 
 ### Connect with me:
-
-<a href="https://www.linkedin.com/in/claritykummer/">![icons8-linkedin](https://github.com/ckkummer/ckkummer/assets/114955006/1782e842-bba0-498c-92f9-2c5c08750c9f)
- <a href="mailto:ckkummer@wisc.edu"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+<a href="https://www.linkedin.com/in/claritykummer"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+<a href="mailto:ckkummer@wisc.edu"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
 
 
 
