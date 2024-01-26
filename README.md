@@ -11,17 +11,15 @@ Statistics at The University of Wisconsin- Madison
 
 
 ### Connect with me:
-<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;"src="[![linkedin (1)](https://github.com/ckkummer/ckkummer/assets/114955006/53ef2b01-dd59-4b0f-911b-1b69dd733e45)
-]/[METHOD]?username=[claritykummer]" />
 
-<a href="https://www.linkedin.com/in/claritykummer/"><img align="left" src="https://raw.githubusercontent.com/ckkummer/ckkummer/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/claritykummer/">![icons8-linkedin](https://github.com/ckkummer/ckkummer/assets/114955006/1782e842-bba0-498c-92f9-2c5c08750c9f)
+
 
 
 
 
 
 ### Languages and Tools:
-
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="R Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/> 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
