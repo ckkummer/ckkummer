@@ -1,11 +1,11 @@
 ![Cream Black Minimalist Art Deco Wedding Banner](https://github.com/ckkummer/ckkummer/assets/114955006/0958aba6-3750-4202-b416-863b7a3a2353)
 
 <h3 align="center">
-Hi, I'm Clarity
+Hi, I'm Clarity👋🏼
 </h3>
 
 <h4 align="center">
-Statistics at The University of Wisconsin- Madison
+Statistics at The University of Wisconsin- Madison👩🏻‍💻
 </h4>
 
 
@@ -13,6 +13,7 @@ Statistics at The University of Wisconsin- Madison
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/claritykummer/">![icons8-linkedin](https://github.com/ckkummer/ckkummer/assets/114955006/1782e842-bba0-498c-92f9-2c5c08750c9f)
+ <a href="mailto:ckkummer@wisc.edu"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
 
 
 
