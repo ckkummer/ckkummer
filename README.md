@@ -1,7 +1,14 @@
-### Hi there 👋
+<h1> Clarity Kummer </h1>
+<h2> Passionate about using data to discover unique narratives . </h2>
 
-<!--
-**ckkummer/ckkummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> </h3>
+I am a 4th year Statistics student at the University of Wisconsin- Madison. 
+
+
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6># Clarity Kummer
+Passionate about discovering the unique narratives data has to offer.   ** 
 
 Here are some ideas to get you started:
 
