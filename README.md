@@ -8,7 +8,7 @@ I am passionate about using Statistics and Mathematics to bring structure and in
 
 Python: PyTorch, TensorFlow, NumPy, pandas, matplotlib
 
-R: RStudio, ggplot
+R: RStudio, ggplot2
 
 Databases: SQL
 
