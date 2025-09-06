@@ -6,10 +6,13 @@ I am passionate about using Statistics and Mathematics to bring structure and in
 
 🔧 Tools & Skills
 
-Python: PyTorch, TensorFlow, NumPy, pandas, matplotlib
+Python: PyTorch, TensorFlow, NumPy, pandas, matplotlib, scikit-learn, torchvision, PIL
 
-R: RStudio, ggplot2
+R: RStudio, ggplot2, dplyr, quantmod, forecast, tseries, fGarch, fBasics
 
 Databases: SQL
 
-I am always open to learning, networking, and collaborating — please don’t hesitate to reach out!
+
+I am always open to learning, networking, and collaborating. Please don’t hesitate to reach out!
+
+Please be mindful of how you may use this content. None of the content here (especially historic courseworok) is to be used in such a way that violates academic and general integrity. Again, this page serves as a way for me to demonstrate and display my technical capacity. 
