@@ -1,4 +1,4 @@
-Hi, I’m Clarity.
+Hi! I am Clarity Kummer.
 
 This GitHub is a growing, evolving space which may serve to document and showcase my technical work as a student of Statistics, formerly (B.S.) at the University of Wisconsin–Madison and currently (M.A.) at Columbia University.
 
