@@ -2,7 +2,7 @@
 
 ### This GitHub is a growing, evolving space that may serve to document and showcase my technical work as a student of Statistics, formerly (B.S.) at the University of Wisconsin–Madison and currently (M.A.) at Columbia University.
 
-#### I am motivated to use my passion for statistics and mathematics to bring structure and insight to an otherwise arbitrary world. I am especially drawn to applications in finance, a field that is demanding, rigorous, high-stakes, and, while I may aim to prove otherwise, historically regarded as inherently inconsistent and unpredictable. 
+#### I am motivated to use my passion for statistics and mathematics to bring structure and insight to an otherwise arbitrary world. I am especially drawn to applications in finance, a field that is rigorous, high-stakes, and, while I aim to prove otherwise, historically regarded as inherently unpredictable. 
 
 # Tools & Skills
 
