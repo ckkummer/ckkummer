@@ -1,10 +1,10 @@
-Hi! I am Clarity Kummer.
+# Hi! I am Clarity Kummer.
 
 This GitHub is a growing, evolving space which may serve to document and showcase my technical work as a student of Statistics, formerly (B.S.) at the University of Wisconsin–Madison and currently (M.A.) at Columbia University.
 
 I am passionate about using Statistics and Mathematics to bring structure and insight to an otherwise arbitrary world. My curiosity is especially drawn to their applications in finance, a field that is demanding and rigorous, high-stakes, and, while I aim to prove otherwise, inherently inconsistent and unpredictable.
 
-🔧 Tools & Skills
+# Tools & Skills
 
 Python: PyTorch, TensorFlow, NumPy, pandas, matplotlib, scikit-learn, torchvision, PIL
 
