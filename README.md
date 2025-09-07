@@ -20,4 +20,4 @@ I am always open to learning, networking, and collaborating. Please don’t hesi
 
 Please be mindful of how you may use this content. None of the content here (especially historic coursework) is to be used in such a way that violates academic and general integrity. Again, this page serves as a way for me to demonstrate and record my technical capacity, my growth and, perhaps, curiosity. 
 
-## Code Available Upon Request for: _Finanical Statistics_ and _Deep Learning and Generative Models_
+## Code Available Upon Request for: _Time Series Analysis_ ,_Finanical Statistics_, and _Deep Learning and Generative Models_
