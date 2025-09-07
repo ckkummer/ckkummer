@@ -15,4 +15,4 @@ Databases: SQL
 
 I am always open to learning, networking, and collaborating. Please don’t hesitate to reach out!
 
-Please be mindful of how you may use this content. None of the content here (especially historic coursework) is to be used in such a way that violates academic and general integrity. Again, this page serves as a way for me to demonstrate and record my technical capacity, my growth and, perhaps curiosity. 
+Please be mindful of how you may use this content. None of the content here (especially historic coursework) is to be used in such a way that violates academic and general integrity. Again, this page serves as a way for me to demonstrate and record my technical capacity, my growth and, perhaps, curiosity. 
