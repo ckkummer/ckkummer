@@ -13,7 +13,7 @@
 
 
 # Additional Code Available Upon Request for: _Time Series Analysis_, _Finanical Statistics_, and _Deep Learning and Generative Models_
-## Additionally: Quantitative trading research, including a statistical arbitrage simulation inspired by multi-asset buy-side quant frameworks, with emphasis on signal generation, position sizing, drawdown control, and capital allocation under risk limits.
+## Additionally: Quantitative trading research, including statisticals arbitrage simulations inspired by multi-asset buy-side quant frameworks, with emphasis on signal generation, position sizing, drawdown control, and capital allocation under risk limits.
 #### Please be mindful of how you may use this content. None of the content here (especially historic coursework) is to be used in such a way that violates academic and general integrity. Again, this page serves as a way for me to demonstrate and record my technical capacity, growth and, perhaps, curiosity. 
 
 # Contact:
