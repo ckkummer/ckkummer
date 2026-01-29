@@ -3,7 +3,7 @@
 # Tools & Skills
 
 ## Python:
-- PyTorch, TensorFlow, NumPy, pandas, matplotlib, scikit-learn, torchvision, PIL
+- PyTorch, TensorFlow, NumPy, pandas, matplotlib, scikit-learn, torchvision, PIL, requests, sqlite
 
 ## R: 
 - RStudio, ggplot2, dplyr, quantmod, forecast, tseries, fGarch, fBasics
